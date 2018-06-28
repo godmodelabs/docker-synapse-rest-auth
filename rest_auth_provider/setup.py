@@ -82,5 +82,5 @@ setup(
     #
     #   py_modules=["my_module"],
     #
-    packages=['rest_auth_provider'],  # Required
+    py_modules=['rest_auth_provider'],  # Required
 )
